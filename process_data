@@ -1,0 +1,3 @@
+def process_data(input):
+    # Long method here
+    return output
