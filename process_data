@@ -1,3 +1,7 @@
+def validate_input(input):
+    # Input validation logic
+
 def process_data(input):
-    # Long method here
+    validate_input(input)
+    # Shortened method here
     return output
